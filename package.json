@@ -1,7 +1,7 @@
 {
-  "name": "rantswithal",
+  "name": "slack-hunger-games",
   "version": "1.0.0",
-  "description": "Website for Rants With Al",
+  "description": "Website for the Slack Hunger Games podcast",
   "main": "package.json",
   "scripts": {
     "build": "rimraf public/ && hugo",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yamanickill/rantswithal.git"
+    "url": "git+https://github.com/yamanickill/slack-hunger-games.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yamanickill/rantswithal/issues"
+    "url": "https://github.com/yamanickill/slack-hunger-games/issues"
   },
-  "homepage": "https://github.com/yamanickill/rantswithal#readme",
+  "homepage": "https://github.com/yamanickill/slack-hunger-games#readme",
   "dependencies": {
     "hugo-bin": "0.84.0",
     "rimraf": "3.0.2"

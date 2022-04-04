@@ -1,6 +1,6 @@
-baseURL = "https://harvestseason.club/"
+baseURL = "https://hngmcast.netlify.app/"
 languageCode = "en-gb"
-title = "The Harvest Season"
+title = "Slack Hunger Games Podcast"
 theme = "hyde"
 
 [markup]
@@ -10,31 +10,10 @@ theme = "hyde"
   extensions = ["hardLineBreak"]
 
 [params]
-  themeColor = "theme-base-0f"
+  themeColor = "theme-base-0c"
   layoutReverse = true
-  description = "A podcast about farming simulators"
-  author = "Al McKinlay and Raschelle Dellaney"
+  description = "Slack Hunger Games Podcast"
+  author = "Nama"
   category = "Leisure"
   subcategory = "Video Games"
-  year = "2019"
-  itunes = "https://itunes.apple.com/podcast/the-harvest-season/id1449112246?mt=2"
-  pocketcasts = "https://pca.st/z5HX"
-  overcast = "https://overcast.fm/itunes1449112246"
-  spotify = "https://open.spotify.com/show/1T6fbWhiBgH2Ym85KloVEs"
-  youtube = "https://www.youtube.com/channel/UCQFJD0AzhVTQCAlHTQS7RMQ"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "patreon"
-    name = "Patreon"
-    title = "patreon"
-    url = "https://www.patreon.com/thspod"
-    weight = -1
-
-  [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    title = "twitter"
-    url = "https://www.twitter.com/thspod"
-    weight = -1
+  year = "2022"

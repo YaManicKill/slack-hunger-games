@@ -1,6 +1,6 @@
-# The Harvest Season
+# Slack Hunger Games
 
-Code for the THS site
+Code for the Slack Hunger Games site
 
 ## Dev
 
