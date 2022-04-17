@@ -10,7 +10,7 @@ theme = "hyde"
   extensions = ["hardLineBreak"]
 
 [params]
-  themeColor = "theme-base-0c"
+  themeColor = "theme-base-00"
   layoutReverse = true
   description = "Slack Hunger Games Podcast"
   author = "Nama"
