@@ -1,5 +1,5 @@
 ---
-title: "Day 13 (Are you happy, Stuart?)"
+title: "Day 13"
 episode: "13"
 season: "1"
 Description: "Day 13 of the Slack Hunger Games Podcast"
