@@ -4,7 +4,7 @@ episode: "4"
 season: "1"
 Description: "Day 4 of the Slack Hunger Games Podcast"
 guid: "shg-04"
-podcast: "shg/shg-04.mp3"
+podcast: "isp/shg-04.mp3"
 podcast_bytes: "6245952"
 podcast_duration: "06:25"
 date: 2022-04-07T18:00:00+01:00
