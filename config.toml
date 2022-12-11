@@ -1,6 +1,6 @@
 baseURL = "https://hngmcast.netlify.app/"
 languageCode = "en-gb"
-title = "Slack Hunger Games Podcast"
+title = "ISE Slack Podcasts"
 theme = "hyde"
 
 [markup]
@@ -12,7 +12,7 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-00"
   layoutReverse = true
-  description = "Slack Hunger Games Podcast"
+  description = "ISE Slack Podcasts"
   author = "Nama"
   category = "Leisure"
   subcategory = "Video Games"

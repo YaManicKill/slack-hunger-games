@@ -1,7 +1,7 @@
 {
-  "name": "slack-hunger-games",
+  "name": "ise-slack-podcasts",
   "version": "1.0.0",
-  "description": "Website for the Slack Hunger Games podcast",
+  "description": "Website for the ISE Slack Podcasts",
   "main": "package.json",
   "scripts": {
     "build": "rimraf public/ && hugo",
