@@ -1,6 +1,6 @@
 ---
 title: "Day 8"
-episode: "9"
+episode: "8"
 season: "3"
 Description: "Day 8 of the Slack Hunger Games Podcast 2023"
 guid: "shg-08"
