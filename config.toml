@@ -4,7 +4,10 @@ title = "ISE Slack Podcasts"
 theme = "hyde"
 
 [markup]
-    defaultMarkdownHandler = "blackfriday"
+    defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.renderer]
+  hardWraps = true
 
 [blackfriday]
   extensions = ["hardLineBreak"]
