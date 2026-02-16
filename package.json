@@ -19,6 +19,6 @@
   "homepage": "https://github.com/yamanickill/slack-hunger-games#readme",
   "dependencies": {
     "hugo-bin": "0.149.2",
-    "rimraf": "6.1.2"
+    "rimraf": "6.1.3"
   }
 }
